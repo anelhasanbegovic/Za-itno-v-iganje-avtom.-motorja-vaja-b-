@@ -4,6 +4,7 @@ Ko obrnemo ključ v desno, se sklene kontakt A, ki aktivira zaganjalnik. Pogoj z
 
 Seznam uporabljenih materialov in komponent:
 1x Arduino UNO
+
 1x DIP stikalo
 1x DC motor
 4x 220ohm upor
