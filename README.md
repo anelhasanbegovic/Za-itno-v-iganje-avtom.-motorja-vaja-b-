@@ -12,8 +12,6 @@ Seznam uporabljenih materialov in komponent:
 
 4x 220ohm upor
 
-1x Rezistor
-
 15x žičk
 
 1x Tranzistor
